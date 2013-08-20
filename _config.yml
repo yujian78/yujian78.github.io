@@ -12,8 +12,7 @@ links:
   - name:         Blog
     url:          /
   - name:         Aperture
-    url:          mailto:hello@muan.co
-    external:     true
+    url:          /aperture
   - name:         Note
     url:          /note
 pygments:         true
