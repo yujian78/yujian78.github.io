@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: Note
 ---
-<p  style="text-align:center;">
-Today we have learnt ….sadf 
 
-asdfs fds sdf\
+- Do not waste your talent.
 
+- Get Used
 
- efsdf 
-</p>
+- 真心。
+
+- 念起既觉，觉已不随。
+
+- 总之那几年。
