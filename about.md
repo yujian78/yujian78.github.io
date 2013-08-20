@@ -1,10 +1,20 @@
 ---
 layout: page
-title: About
+title: brief
 ---
+<h3 style="text-align:center;">九月</h3>
+<p  style="text-align:center;">
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+<br />
+目击众神死亡的草原上野花一片<br /><br />
+远在远方的风比远方更远<br /><br />
+我的琴声呜咽 泪水全无<br /><br />
+我把这远方的远归还草原<br /><br />
+一个叫马头 一个叫马尾<br /><br />
+我的琴声呜咽 泪水全无<br /><br />
+远方只有在死亡中凝聚野花一片<br /><br />
+明月如镜高悬草原映照千年岁月<br /><br />
+我的琴声呜咽 泪水全无<br /><br /><br />
+只身打马过草原。<br />
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+</p>
