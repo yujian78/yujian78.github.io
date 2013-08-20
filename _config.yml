@@ -19,4 +19,4 @@ pygments:         true
 permalink:        pretty
 markdown:         rdiscount
 rdiscount:
-  extensions:     [smart]
+  extensions:     [smart]·
